@@ -1,0 +1,15 @@
+C:\Sudhir\DotNet\DesignPatterns\StrategyPattern\StrategyPatternApp\bin\Debug\net7.0\StrategyPatternApp.exe
+C:\Sudhir\DotNet\DesignPatterns\StrategyPattern\StrategyPatternApp\bin\Debug\net7.0\StrategyPatternApp.deps.json
+C:\Sudhir\DotNet\DesignPatterns\StrategyPattern\StrategyPatternApp\bin\Debug\net7.0\StrategyPatternApp.runtimeconfig.json
+C:\Sudhir\DotNet\DesignPatterns\StrategyPattern\StrategyPatternApp\bin\Debug\net7.0\StrategyPatternApp.dll
+C:\Sudhir\DotNet\DesignPatterns\StrategyPattern\StrategyPatternApp\bin\Debug\net7.0\StrategyPatternApp.pdb
+C:\Sudhir\DotNet\DesignPatterns\StrategyPattern\StrategyPatternApp\obj\Debug\net7.0\StrategyPatternApp.csproj.AssemblyReference.cache
+C:\Sudhir\DotNet\DesignPatterns\StrategyPattern\StrategyPatternApp\obj\Debug\net7.0\StrategyPatternApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sudhir\DotNet\DesignPatterns\StrategyPattern\StrategyPatternApp\obj\Debug\net7.0\StrategyPatternApp.AssemblyInfoInputs.cache
+C:\Sudhir\DotNet\DesignPatterns\StrategyPattern\StrategyPatternApp\obj\Debug\net7.0\StrategyPatternApp.AssemblyInfo.cs
+C:\Sudhir\DotNet\DesignPatterns\StrategyPattern\StrategyPatternApp\obj\Debug\net7.0\StrategyPatternApp.csproj.CoreCompileInputs.cache
+C:\Sudhir\DotNet\DesignPatterns\StrategyPattern\StrategyPatternApp\obj\Debug\net7.0\StrategyPatternApp.dll
+C:\Sudhir\DotNet\DesignPatterns\StrategyPattern\StrategyPatternApp\obj\Debug\net7.0\refint\StrategyPatternApp.dll
+C:\Sudhir\DotNet\DesignPatterns\StrategyPattern\StrategyPatternApp\obj\Debug\net7.0\StrategyPatternApp.pdb
+C:\Sudhir\DotNet\DesignPatterns\StrategyPattern\StrategyPatternApp\obj\Debug\net7.0\StrategyPatternApp.genruntimeconfig.cache
+C:\Sudhir\DotNet\DesignPatterns\StrategyPattern\StrategyPatternApp\obj\Debug\net7.0\ref\StrategyPatternApp.dll
